@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Darren (Ren) Butler"
+  name             : "Darren 'Ren' Butler"
   avatar           : "Google Conference Photo.jpeg"
-  bio              : "Doctoral Researcher enhancing neurodiverse collaboration in AI engineering education and practice."
-  location         : "Pittspurgh, PA, U.S"
+  bio              : "Researcher Building SAFER-AI: Safety and Accessibility in Fundamental Engineering for Responsible-AI."
+  location         : "Pittsburgh, PA, USA"
   employer         : "Carnegie Mellon University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ZjUe7SMAAAAJ&hl=en&inst=3203679203499159833"
