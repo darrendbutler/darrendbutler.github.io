@@ -8,7 +8,7 @@ of learning behaviors like seeking feedback or admitting mistakes
 in the workplace... To identify tools and practices that foster psychological safety
 in neurodiverse collaborative mob programming, I will conduct
 a series of mixed-method, design-based studies.'
-date: 2025-10-09
+date: 2025-05-09
 venue: 'Conference for Research on Equitable and Sustained Participation in Engineering, Computing, and Technology (RESPECT)'
 paperurl: 'http://darrendbutler.github.io/files/RESPECT_Doctoral_Consortium_Research_Summary.pdf'
 citation: 'Darren Butler. 2025. Fostering Psychological Safety for Interpersonal Learning in Neurodiverse Software Teams. In <i>Proceedings of the 2025 Conference for Research on Equitable and Sustained Participation in Engineering, Computing, 
