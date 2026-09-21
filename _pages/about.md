@@ -7,12 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I build AI-augmented tools for practitioners and everyday users to critique sociotechnical systems. 
+I design, develop, and evaluate digital tools and practices for learning and collaboration among software developers. 
 
-I am a Ph.D. student in Human-Computer Interaction at Carnegie Mellon University, advised by [Dr. Andrew Begel](https://andrewbegel.com/ "Andrew's Site") in the [Variability Lab](https://cmu-variability.github.io/ "Lab site").
+I am a PhD student in Human-Computer Interaction with experience building cloud-based tools, data pipelines, and web applications, as well as conducting applied research on accessible and equitable technology. I work at the intersection of data science and AI, software engineering, and human-centered design, with interests in platform usability, workflow automation, and technology that supports learning and collaboration.
 
-I design AI-augmented practices and tools that help multidisciplinary teams surface risks, reason together, and make better decisions. My dissertation, SAFER-AI, combines contextual inquiry (surveys, interviews, observations) with participatory design and lightweight prototyping (video/whiteboard plugins; conversational agents) to detect misunderstandings, scaffold inclusive critique, and increase trust in high-stakes, computational work.
+I have worked with organizations (Deloitte, Google, and venture capital groups) on technology design, education, and entrepreneurship projects.
 
-I have worked with organizations (Deloitte, Google, and venture capital groups) on technology design,education, and entrepreneurship projects.
-
-> 📣  **Hiring?** I am on the 2025-26 job market for applied industry research / engineering internships. Reach out if you want to chat!
+> 📣  **Hiring or want to collaborate?** I am on the market for tenure-track roles in computing colleges and applied science and engineering roles in industry. Also open to freelance. Reach out if you want to chat!
